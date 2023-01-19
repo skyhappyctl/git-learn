@@ -1,2 +1,5 @@
 Hello！
 I love learning coding!
+git add .
+git commit -m "xxx"
+git log
