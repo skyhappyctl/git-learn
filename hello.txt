@@ -1,5 +1,9 @@
 Hello！
 I love learning coding!
-git add .
+git add . //将所有修改过后的改动全部添加
 git commit -m "xxx"
-git log
+git log //查看commit的日志
+git status
+git reset --hard id //回退到某一个版本
+git reflog //对版本库历史以来的所有改动
+git diff //查看本次修改和git库里最新版本的差别
